@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.testobject:testobject-java-api:0.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testobject/testobject-java-api/0.1.0/6f634a57dd03c69fe5af7faaf7dc4962e52c8df/testobject-java-api-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testobject/testobject-java-api/0.1.0/17fd12789643dbfa7dcd59ebfdb736b3b0c74cbc/testobject-java-api-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

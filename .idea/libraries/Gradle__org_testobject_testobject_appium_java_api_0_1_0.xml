@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.testobject:testobject-appium-java-api:0.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testobject/testobject-appium-java-api/0.1.0/41d48c499fe0667c9a2433a78c17c500c398233f/testobject-appium-java-api-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testobject/testobject-appium-java-api/0.1.0/7b4811c129a29e29470c3761a4f2c8be3f9dc4/testobject-appium-java-api-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
